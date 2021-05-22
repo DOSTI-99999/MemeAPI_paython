@@ -39,3 +39,6 @@ fetch from different subreddits with upvote limit https://memeapi.pythonanywhere
 
 Here's how it looks when ran correctly
 ![img file](https://github.com/jaychandra6/MemeAPI/blob/main/screenshot.png)
+
+### Contributions
+Fork the repo, make changes and make a pull request.
